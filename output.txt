@@ -1,0 +1,3 @@
+Rreshti1: Ky eshte nje skedare
+Rreshti2: Kjo eshte klase e Nodejs
+Rreshti3: Kjo eshte seanca e skedareve

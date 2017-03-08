@@ -1,0 +1,22 @@
+{
+  "name": "kuboidi-package",
+  "version": "1.0.0",
+  "description": "vellimi i kuboidit",
+  "main": "kuboidi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/politologu/kuboidi-package.git"
+  },
+  "keywords": [
+    "kuboidi"
+  ],
+  "author": "Pasho Toska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/politologu/kuboidi-package/issues"
+  },
+  "homepage": "https://github.com/politologu/kuboidi-package#readme"
+}

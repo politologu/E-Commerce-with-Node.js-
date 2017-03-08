@@ -1,0 +1,3 @@
+Ky eshte nje skedare
+Kjo eshte klase e Nodejs
+Kjo eshte seanca e skedareve
